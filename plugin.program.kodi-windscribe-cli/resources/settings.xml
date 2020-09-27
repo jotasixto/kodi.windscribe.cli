@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="55001">
+        <setting label="55002" type="bool" id="enable" default="false"/>
+        <setting label="55011" type="text" id="username" default=""/>
+        <setting label="55012" type="text" id="password" option="hidden" enable="!eq(-1,)" default=""/>
+        <setting label="55015" type="select" id="id_select" lvalues="56001|56002|56003|56004|56005|56006|56007" enable="!eq(-1,)" />
+    </category>
+    <category label="55020">
+        <setting label="55025" type="action" action="RunAddon(plugin.windscribe.cli)"/>
+    </category>
+</settings>

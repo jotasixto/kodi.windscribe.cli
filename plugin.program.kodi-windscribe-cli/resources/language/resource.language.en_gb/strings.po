@@ -1,0 +1,73 @@
+# Kodi Media Center language file
+# Addon Name: Control Windscribe CLI
+# Addon id: plugin.windscribe.cli
+# Addon Provider: jotasixto
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.windscribe.cli\n"
+"Report-Msgid-Bugs-To: juan@sixtoanello.comn"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: jotasixto\n"
+"Language-Team: English (https://github.com/jotasixto/kodi.windscribe.cli)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#55001"
+msgid "General"
+msgstr ""
+
+msgctxt "#55002"
+msgid "enable"
+msgstr ""
+
+msgctxt "#55011"
+msgid "username"
+msgstr ""
+
+msgctxt "#55012"
+msgid "password"
+msgstr ""
+
+msgctxt "#55015"
+msgid "location"
+msgstr ""
+
+msgctxt "#55020"
+msgid "Actions"
+msgstr ""
+
+msgctxt "#55025"
+msgid "run"
+msgstr ""
+
+msgctxt "#56001"
+msgid "GB"
+msgstr ""
+
+msgctxt "#56002"
+msgid "DE"
+msgstr ""
+
+msgctxt "#56003"
+msgid "NL"
+msgstr ""
+
+msgctxt "#56004"
+msgid "DE"
+msgstr ""
+
+msgctxt "#56005"
+msgid "FR"
+msgstr ""
+
+msgctxt "#56006"
+msgid "US"
+msgstr ""
+
+msgctxt "#56007"
+msgid "CA"
+msgstr ""

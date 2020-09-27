@@ -9,12 +9,16 @@
   <extension point="xbmc.addon.metadata">
     <platform>linux</platform>
     <summary lang="en_GB"></summary>
-    <description lang="en_GB">Your add-on's description</description>
+    <description lang="en_GB">Control Windscribe CLI in linux platforms</description>
     <disclaimer lang="en_GB"></disclaimer>
     <language>en</language>
     <license>GPL-3.0-or-later</license>
     <website>https://github.com/jotasixto/kodi.windscribe.cli</website>
     <email>juan@sixtoanello.com</email>
     <source>https://github.com/jotasixto/kodi.windscribe.cli</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
