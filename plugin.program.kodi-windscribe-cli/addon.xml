@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.windscribe.cli" name="Control Windscribe CLI" version="0.1.0" provider-name="jotasixto">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>linux</platform>
+    <summary lang="en_GB"></summary>
+    <description lang="en_GB">Your add-on's description</description>
+    <disclaimer lang="en_GB"></disclaimer>
+    <language>en</language>
+    <license>GPL-3.0-or-later</license>
+    <website>https://github.com/jotasixto/kodi.windscribe.cli</website>
+    <email>juan@sixtoanello.com</email>
+    <source>https://github.com/jotasixto/kodi.windscribe.cli</source>
+  </extension>
+</addon>
