@@ -57,17 +57,17 @@ msgid "NL"
 msgstr ""
 
 msgctxt "#56004"
-msgid "DE"
-msgstr ""
-
-msgctxt "#56005"
 msgid "FR"
 msgstr ""
 
-msgctxt "#56006"
+msgctxt "#56005"
 msgid "US"
 msgstr ""
 
-msgctxt "#56007"
+msgctxt "#56006"
 msgid "CA"
+msgstr ""
+
+msgctxt "#56007"
+msgid "best"
 msgstr ""
