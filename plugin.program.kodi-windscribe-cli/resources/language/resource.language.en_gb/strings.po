@@ -41,33 +41,33 @@ msgid "Actions"
 msgstr ""
 
 msgctxt "#55025"
-msgid "run"
+msgid "update VPN and get status"
 msgstr ""
 
 msgctxt "#56001"
-msgid "GB"
+msgid "best"
 msgstr ""
 
 msgctxt "#56002"
-msgid "DE"
+msgid "GB"
 msgstr ""
 
 msgctxt "#56003"
-msgid "NL"
+msgid "DE"
 msgstr ""
 
 msgctxt "#56004"
-msgid "FR"
+msgid "NL"
 msgstr ""
 
 msgctxt "#56005"
-msgid "US"
+msgid "FR"
 msgstr ""
 
 msgctxt "#56006"
-msgid "CA"
+msgid "US"
 msgstr ""
 
 msgctxt "#56007"
-msgid "best"
+msgid "CA"
 msgstr ""

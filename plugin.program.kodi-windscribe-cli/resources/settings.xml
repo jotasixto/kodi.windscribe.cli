@@ -4,7 +4,7 @@
         <setting label="55002" type="bool" id="enable" default="false"/>
         <setting label="55011" type="text" id="username" default=""/>
         <setting label="55012" type="text" id="password" option="hidden" enable="!eq(-1,)" default=""/>
-        <setting label="55015" type="select" id="location" lvalues="56001|56002|56003|56004|56005|56006|56007" values="GB|DE|NL|FR|US|CA|best" enable="!eq(-1,)" />
+        <setting label="55015" type="select" id="location" lvalues="56001|56002|56003|56004|56005|56006|56007" values="best|GB|DE|NL|FR|US|CA" />
     </category>
     <category label="55020">
         <setting label="55025" type="action" action="RunAddon(plugin.windscribe.cli)"/>
